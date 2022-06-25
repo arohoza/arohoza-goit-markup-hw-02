@@ -43,8 +43,16 @@ header{
 
 .navigation-link:hover,
 .navigation-link:focus{
-    color: var(--accent-color);
-    
+    color:var(--accent-color);
+}
+
+.navigation-links .current-page{
+    color:var(--accent-color);
+    cursor: none;
+}
+
+ul{
+    list-style: none;
 }
 
 .contact-info {
