@@ -48,7 +48,6 @@ header{
 
 .navigation-links .current-page{
     color:var(--accent-color);
-    cursor: none;
 }
 
 ul{
